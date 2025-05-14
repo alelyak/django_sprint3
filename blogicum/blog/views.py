@@ -1,7 +1,10 @@
 from django.shortcuts import render
 from django.http import Http404
 # Create your views here.
+<<<<<<< HEAD
 # Временный список постов (источник данных)
+=======
+>>>>>>> 9b093877e7dfd446599721c22d85fee1f4ec66e2
 
 
 def index(request):
