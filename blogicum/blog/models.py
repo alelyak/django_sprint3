@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 
-
-# Create your models here.
-=======
-<<<<<<< HEAD
 
 
 # Create your models here.
-=======
+
+
+# Create your models here.
+
 # blog/models.py
 
 from django.db import models
@@ -102,5 +100,3 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
->>>>>>> 9b093877e7dfd446599721c22d85fee1f4ec66e2
->>>>>>> dd9fcb569a5c8153c36311669ad54db0fdc2fb4c
